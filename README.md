@@ -5,6 +5,9 @@ OpenDTU pinlayout
 
 Dieses Projekt ermöglicht es, einen ESP32 Mikrocontroller zur Steuerung eines Hoymiles Wechselrichters mit Open-DTU zu nutzen. Damit kannst du deinen Stromfluss und die Einspeisung ins Netz präzise steuern, um eine optimale Nutzung deines Solarstroms zu gewährleisten.
 
+Hier gehts zum Video: https://youtu.be/gI93GC-Pxf0 
+Hier zur OpenDTU Doku https://www.opendtu.solar/
+
 ![ESP32_Funkt_modul_Zoo](https://github.com/user-attachments/assets/8d8a3f7a-4dbe-45aa-bea7-11da6111b0e6)
 
 
